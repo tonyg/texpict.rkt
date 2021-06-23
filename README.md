@@ -55,6 +55,17 @@ of `pdflatex`, which can be helpful for debugging LaTeX problems.
 ## History
 
 `texpict.rkt` is based on `main.rkt` from Stephen Chang's 2012 library
-[`(planet stchang/slideshow-tex)`](https://planet.racket-lang.org/display.ss?package=slideshow-tex.plt&owner=stchang),
+[`(planet stchang/slideshow-tex)`](https://planet.racket-lang.org/display.ss?package=slideshow-tex.plt&owner=stchang)
+(also
+[available on github](https://github.com/stchang/slideshow-tex)),
 subsequently modified a reasonable amount by Tony Garnock-Jones over
 the years up to around 2018.
+
+## License
+
+Both `texpict.rkt` and its ancestor, `main.rkt`, are
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)-licensed.
+That is to say: To the extent possible under law, Tony Garnock-Jones
+and Stephen Chang have both waived all copyright and related or
+neighboring rights to texpict.rkt. Please see also the
+[LICENSE](LICENSE) file in this repository.
